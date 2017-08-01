@@ -9,10 +9,10 @@
 ### What is this repository for? ###
 
 This tutorial creates an Image Gallery with a responsive Grid layout.
-Category
-Education
-License
-Standard YouTube License
+*Category
+*Education
+*License
+*Standard YouTube License
 
 
 ### How do I get set up? ###
